@@ -1,6 +1,9 @@
 package assignment_1;
 
 public class Car {
+	String name;
+	int hp;
+	int vmax;
 	// ...
 
 	public Car(String name, int hp, int vmax) {
