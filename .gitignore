@@ -1,1 +1,4 @@
 /bin/
+src/soccerGame_solution/Game.java
+src/soccerGame_solution/SeasonLogic.java
+src/soccerGame_solution/Team.java
