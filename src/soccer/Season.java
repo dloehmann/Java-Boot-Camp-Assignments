@@ -3,8 +3,12 @@ package soccer;
 public class Season {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Soccer Game");
+		
+	Public String toString() {
+		return "Chelsea FC";
+	}
+		System.out.println(new Team(1, "Chelsea FC"). getName());
+	
 	}
 
 }
